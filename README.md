@@ -1,5 +1,4 @@
 ## starter-quotes
-
 This project is the starting repository for COMP4711 (winter 2017) lab #4.
 
 This starter builds on [CodeIgniter3.1-starter2](https://github.com/jedi-academy/CodeIgniter3.1-starter2),
